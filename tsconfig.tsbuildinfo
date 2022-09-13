@@ -476,32 +476,32 @@
         "signature": "aec59f80c62291ec634283d443b27ebe6fc6cf57670057aa9a172927675bfbea",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts": {
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts": {
         "version": "8e2bc63c0fda98bbcac0d610bd8909ce89ce762cc9a4cb9055e8b9cba9a187cb",
         "signature": "8e2bc63c0fda98bbcac0d610bd8909ce89ce762cc9a4cb9055e8b9cba9a187cb",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/types.d.ts": {
+      "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/types.d.ts": {
         "version": "281be2ab3c949a1d1c43d47ef1e443ae3e79d4e513cc064096c4d3c73ad5627f",
         "signature": "281be2ab3c949a1d1c43d47ef1e443ae3e79d4e513cc064096c4d3c73ad5627f",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts": {
+      "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts": {
         "version": "3cefbe35bb699596b1366d0e5be2b48fdc50a55cda3b3cbc01775970a3cdfc0e",
         "signature": "3cefbe35bb699596b1366d0e5be2b48fdc50a55cda3b3cbc01775970a3cdfc0e",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketPublisher.d.ts": {
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketPublisher.d.ts": {
         "version": "3d2b073fd74963905bdd70547904ff509aa55920a5f7b543ef501da258112428",
         "signature": "3d2b073fd74963905bdd70547904ff509aa55920a5f7b543ef501da258112428",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts": {
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts": {
         "version": "ff9c1e4215893a85da656d390640e7d993ab0d6b095b5a2430a55bbbaaf4fc48",
         "signature": "ff9c1e4215893a85da656d390640e7d993ab0d6b095b5a2430a55bbbaaf4fc48",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/module.d.ts": {
+      "./node_modules/promo-infra-modules/dist/Websocket/module.d.ts": {
         "version": "228a245933dddd563e08447863179cc34cf2b1b9e315b0263958518e45296a8f",
         "signature": "228a245933dddd563e08447863179cc34cf2b1b9e315b0263958518e45296a8f",
         "affectsGlobalScope": false
@@ -521,42 +521,42 @@
         "signature": "a83689c51e47f722dc17ce46a251ce8e0f8b376f75cfdd974e182c0d3fea4ee4",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts": {
         "version": "46727fdc265e093e21be6bcb83a00b5a8e73d3fc0f5b97773ce60aba94d65c28",
         "signature": "46727fdc265e093e21be6bcb83a00b5a8e73d3fc0f5b97773ce60aba94d65c28",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts": {
         "version": "74f396b848cb076df3a6c5b3a33f29f82de9589002c3effccae14c4f494a2424",
         "signature": "74f396b848cb076df3a6c5b3a33f29f82de9589002c3effccae14c4f494a2424",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts": {
         "version": "6bc8df0413cbba8a50de6077b6f288c047545e170bb598d1e140cb871a27f1fb",
         "signature": "6bc8df0413cbba8a50de6077b6f288c047545e170bb598d1e140cb871a27f1fb",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts": {
         "version": "62abf44d6575544c674c5ae93868873bbbf77270a8e2ce309a10a7cc673e62cc",
         "signature": "62abf44d6575544c674c5ae93868873bbbf77270a8e2ce309a10a7cc673e62cc",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Producer.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Producer.d.ts": {
         "version": "9451853570b5b58359332bdcb76d2e7141750436459b6c568b3642816d90f399",
         "signature": "9451853570b5b58359332bdcb76d2e7141750436459b6c568b3642816d90f399",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts": {
         "version": "07fc9120c36e8f1670b60d1d8ee784632cff08dbc7d50cf5d5294710c506d20b",
         "signature": "07fc9120c36e8f1670b60d1d8ee784632cff08dbc7d50cf5d5294710c506d20b",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts": {
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts": {
         "version": "70b6f49790c55241e04387255c6adacf17d1916f75528baa1d7a1b8dde541919",
         "signature": "70b6f49790c55241e04387255c6adacf17d1916f75528baa1d7a1b8dde541919",
         "affectsGlobalScope": false
       },
-      "./node_modules/kiwiki-infra-modules/dist/app.d.ts": {
+      "./node_modules/promo-infra-modules/dist/app.d.ts": {
         "version": "ffbc432e78f4f69ef23da2d4a54b66586d22a6ba6d75c77152f091a8c59ed1e0",
         "signature": "ffbc432e78f4f69ef23da2d4a54b66586d22a6ba6d75c77152f091a8c59ed1e0",
         "affectsGlobalScope": false
@@ -3222,7 +3222,7 @@
         "affectsGlobalScope": false
       },
       "./src/Infra/EmailSender/AWSEmailSender.ts": {
-        "version": "e866df444dbc737aa60c34857e1213d918fef8ae73024a0ac3d6a20848c4acb5",
+        "version": "2328ab36799667f90d3ee00ac089ee82f80752c3bd446b497d281e058b9e80ac",
         "signature": "ac96a4358482f587e1a68eaf088cd1a4992afdd942743935f899b7ab93d9820c",
         "affectsGlobalScope": false
       },
@@ -3247,33 +3247,33 @@
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts": {
-        "version": "f9a828fd46b0c88e10ad77c4ef6b8cc6f959958cec899a5a8591cd62bcd2d28e",
-        "signature": "d69cf7911f1a83529879fa96bbe41f487db7dcfee0a678112d23ae9e71697bbf",
+        "version": "b90c5b73da90f94233b64c886f9513af427850d7f59d37b3e927d564d5ff3d3d",
+        "signature": "6ebcfcd48d8662dc13513574d7990fc6f3a5cc3381b75ea79c4e0b4e1f4f154b",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts": {
-        "version": "c75433f7f35347c7ae58f17979d9080130bf025b3b063caab67b6d4e142c56f4",
-        "signature": "9480fe09fd76ac9e4b1058460dfebb883798f21fa4ad500b1c3621016b5a3164",
+        "version": "fbf6953a6a793d879585244d81145ff98e790b75e3251acac0b6b8444bca0076",
+        "signature": "bdf9aebefc7365a66ec418c864fc88e0df3e9b2cc6d57b5f208cd2a3157103fa",
         "affectsGlobalScope": false
       },
       "./src/Infra/RabbitMQ/queues/FeedShouldSendMailQueue.ts": {
-        "version": "f1ac9f865746ac77c646016da6479bacc309ab9e9f3ae2f171d5faa20a40f96f",
-        "signature": "06b7b5141e4211c59aa17cbd4ce6f1f1f4e84d5637d4017feb2d519c8dc48547",
+        "version": "6d874cdc3b918c924908bd35f3f07a82351c08a6c2f2197ed3cab1ea7bda5959",
+        "signature": "b6550cc340a19a4aace4a5886b0bb80fe21a735fecd3cab98d50a3aeb2f94aed",
         "affectsGlobalScope": false
       },
       "./src/Infra/RabbitMQ/queues/FeedEmailSenderQueue.ts": {
-        "version": "b1cf7ba09e3c5dd8dfa3193041baa9a48e1e6c5339e8d4622d589b61d09a2ebd",
-        "signature": "a3f15313580b1a87b2898ab4d28b0f982b9ccec1c9691905d72c2473c6a1a127",
+        "version": "3b71cd6a0665b004628eb636c0be293a331c6955c590ae05cf6f6c9f8741a91a",
+        "signature": "a87d395f907cb6c6bb8e42bb1851009e08ae7c14f34fac37adc2b6d70317b6a1",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts": {
-        "version": "1a362e48e11a291b86f8d8a4277b079719d0ef2312b717cc5c6cfa692892d7ee",
-        "signature": "84a1c3f04a05150c9bdd1fcfb36047e0a66c965b0d9b430d9c0de06ee4332dfb",
+        "version": "ea4d87841ead4eead401559aa8e87ea6b24d5a339ea3102c121a9b8734176127",
+        "signature": "ab978acfab3b87ca91d26d52545f7a5a567d4ec63fb39bc2b9c4ea1b8defdeec",
         "affectsGlobalScope": false
       },
       "./src/Infra/RabbitMQ/queues/EmailValidationRequestQueue.ts": {
-        "version": "7e8fa7bad8606d88d04672e2efc10a4962f14a3632255427796f5b0c5a8aec3b",
-        "signature": "887c6a263d0d36a1a825ac3a672e1bc6cf130397a5a78977766563fd33eb7bc0",
+        "version": "b47d2335fa031a1d2afbb7f4fea8daac27a23b9c9019a875e026333c31537a4f",
+        "signature": "22c6a37cae510ae7eb9b0b06336a75aef99506fd5ad1948919a3c182f62acd75",
         "affectsGlobalScope": false
       },
       "./node_modules/bson/node_modules/buffer/index.d.ts": {
@@ -3302,18 +3302,18 @@
         "affectsGlobalScope": false
       },
       "./src/Infra/RabbitMQ/ConsumerLogger.ts": {
-        "version": "d57291111124a9103fdab7fbc646b381e2b3d007af92e210ae9cab209bfd1e05",
-        "signature": "5222ce74a1edf3a31cab14849de068be03ec3605b947ee0a65467baceeae1664",
+        "version": "c6c6937999b35e9f10fb16450b9f19835fca2cc2ff704b250c19e93eefc3a320",
+        "signature": "23c45fa246253a11fa30ea5a22ab7e444e5a50b37fc20db72b28d77f8ea0481c",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.factory.ts": {
-        "version": "66ca772a1ca9158ffd6cb328b31df412a86b8a2d5e983b8478e767b91542fede",
+        "version": "c760e75c78a4f3d8fa6a2e16fc4372f492e2c4272c4ce78773ba1e2f90116846",
         "signature": "447c0e8cdad5e773148c3e8c422a20e0f6176f33b7a1d15e05b2d941bf3220e5",
         "affectsGlobalScope": false
       },
       "./src/Presentation/Consumers/FeedShouldSendMailConsumer.ts": {
-        "version": "e00bdd9ef69ccd7cf3365c77405070817f0b9ef6d1113ce2fb727aa63e7a2434",
-        "signature": "dc38c5c9bebbf9da7a10f8783ccb25b9778c374811d30b0cbe2fe6343fef5a31",
+        "version": "282f51fab18c9449694798ae225f6e91093a95871d4f423dedf9d74490b7ba41",
+        "signature": "34f8229600ea1e00b968e8db89ac3c511297a52031f8db42973ac70cd4e2d5eb",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.factory.ts": {
@@ -3322,8 +3322,8 @@
         "affectsGlobalScope": false
       },
       "./src/Presentation/Consumers/FeedEmailNotifyConsumer.ts": {
-        "version": "9a05f963cf1d813145a68caae8420c3fe97218c2dd6c57fe7d2a8f58efa52818",
-        "signature": "09b2069036ffb33865818c9e7799d58d8a2fe33da3c14f7c4d9a26162edf4c38",
+        "version": "6e42af588df9d28fdc89696b182caf638dd695efe6c4d9492b88fcb859c8aabf",
+        "signature": "6b138fb9748fea30713e058e9104b3db520d70d2c8456c3439cba8f600cb114b",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.factory.ts": {
@@ -3332,18 +3332,18 @@
         "affectsGlobalScope": false
       },
       "./src/Presentation/Consumers/EmailValidationRequestConsumer.ts": {
-        "version": "c755b9922086cf622fe06290018e75adc035ef51cacce5697ecc53978305d110",
-        "signature": "ec6679aa1ff12691049f7db6456fb4dd3f2057f28f9cf96cf09af23f60889a4e",
+        "version": "53ae975a6c31e8b0ff689de2110cacbb7148f53c452b5f83f88b41f11cb0cabe",
+        "signature": "1439b4a3d58cb0cdac9a13d4ba4a96f3853c3c224c6123debc2323d8e44ef4fe",
         "affectsGlobalScope": false
       },
       "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts": {
-        "version": "b846bda4df34092b493e7f825472a8306fc05f9c53d361e3e5ea551c31b3acdb",
-        "signature": "fa3ae4f43267125a00933c2ef7844fc5fbca899d603f5bb5fea115c7698a06c6",
+        "version": "e489503fa226bd78c3d0506fdf0a61dad6a4b74271515b539de151d7834134c1",
+        "signature": "b0c66dc01d11f743c0e3120b9372d360b6662e3be56921d99f2f5389f96b61c2",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.ts": {
-        "version": "953e11a500dfd83f1cc7629619fc6526ce31ed0d146bfc3db8ce96da235f34c4",
-        "signature": "99be8a27d1495c8050ab2d94c9ffcc165359b2ea78aa91a0fe781b70d54010a0",
+        "version": "25e005a190f6f5b6dda4fddac4b44cb295198e5ab33d4dc5f0f0f19b043f943d",
+        "signature": "e1bc120962023cf2ae81b964dc90205a7483d5832c8b92219e8476011c962b7d",
         "affectsGlobalScope": false
       },
       "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.factory.ts": {
@@ -3352,17 +3352,17 @@
         "affectsGlobalScope": false
       },
       "./src/Presentation/Consumers/BounceEmailConsumer.ts": {
-        "version": "278e6e3e98273bc0f6d8d1371968da8c04f9a1696fb3ec5b527dcbee92e28973",
-        "signature": "365f4c2d6c0d0284d2e075b0e3b91d6821159678862c22b458eb8dcc327440ed",
+        "version": "d3fef342967489eadc3853f230952a45933cb849a14bdaa723bd4861a0daae54",
+        "signature": "e3d8fd4b250936ccacdcf93b336f6e751f2ba330d9e30b2037a13c287f85d69a",
         "affectsGlobalScope": false
       },
       "./src/Infra/RabbitMQ/RabbitConnector.ts": {
-        "version": "a796d92785ed580e5d4f5bbd2876a310f8da25ba435fb8686ad2392f89a3772e",
-        "signature": "4b1ab82a626c660df4724914ea779ccf2cad9d4c1167eba8c9acd2545030c20f",
+        "version": "2acf12ecdfadc7f8f021d6f3482e073d09f3671f950c0acb407018b0f3ec6340",
+        "signature": "ca2bb822f8e60b13439233c991872d4eb7f7eeeccf23b04ed1b8295ed9c66b76",
         "affectsGlobalScope": false
       },
       "./src/Presentation/SesBouncedPresenter.ts": {
-        "version": "97c52bcc5691a8a5ff89e79b51b2bd51978425fa6d3d67d54a43371765bb0ffd",
+        "version": "d1f88cafee7e641a27187a0068335d485d5c72600947f3c81a5aea35a0b0f61f",
         "signature": "8e0e9493f62e3a1416cf1b7d34bb4b13c1b81f84675275062da1bd10a418a34c",
         "affectsGlobalScope": false
       },
@@ -3382,17 +3382,17 @@
         "affectsGlobalScope": false
       },
       "./src/app.ts": {
-        "version": "f78e5745e62e1a9634944887ab5f1ab2bb5e059ee5796be21371f10bb313543d",
+        "version": "2cf3e697795bd25df48115b0e162c345e3aeccf7676f7e484520878bacee0122",
         "signature": "caf563822fa77e1517c1a248fdaf28f225d25b530199caccb5b4574195affc24",
         "affectsGlobalScope": false
       },
       "./src/EmailSenderTest.ts": {
-        "version": "159afdb88ae96254aad2e80d6044345201c38873c1c8d06aa667b518a35270e0",
+        "version": "20590644dde5a53238d0a96eb4ed812664c2d918c76cba86e2ac230bc5508ffa",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
       "./src/Data/Source/Mongo/BounceLogMongo.ts": {
-        "version": "88a4699562c769fbed3ca7ea995caa8937b7debc952d428236e9f89a771a004b",
+        "version": "c9363c30da6e2d5768444de26372512af2098f5dfd23e86e43997bdadc950bf4",
         "signature": "33621180954e2801046843c51f025d4ea7d17a39b47558fcff32f5ae922e52fa",
         "affectsGlobalScope": false
       },
@@ -3572,7 +3572,7 @@
         "affectsGlobalScope": false
       },
       "./src/Utils/EmailSender.ts": {
-        "version": "e00ce4641c05ef36f63a47fbfa81ddd8a770ca41ce00c48a80449fdc24776c90",
+        "version": "a2742e73127cb679bbb09546e465ea63931003bfe496acf4fb10c99af96ac77e",
         "signature": "6eea94f941d805f5f322ece77853191598043bde92dfbf6d4ce3e7de8ab6a7e9",
         "affectsGlobalScope": false
       },
@@ -8173,66 +8173,6 @@
         "./node_modules/jest-diff/build/cleanupSemantic.d.ts",
         "./node_modules/jest-diff/build/types.d.ts"
       ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Producer.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Producer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/types.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts": [
-        "./node_modules/@types/websocket/index.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketPublisher.d.ts": [
-        "./node_modules/@types/websocket/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts": [
-        "./node_modules/@types/websocket/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/module.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketPublisher.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/app.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/module.d.ts"
-      ],
       "./node_modules/knex/types/index.d.ts": [
         "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/index.d.ts",
@@ -8243,6 +8183,66 @@
       ],
       "./node_modules/pretty-format/build/index.d.ts": [
         "./node_modules/pretty-format/build/types.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Producer.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Producer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts": [
+        "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/types.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts": [
+        "./node_modules/@types/websocket/index.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketPublisher.d.ts": [
+        "./node_modules/@types/websocket/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts": [
+        "./node_modules/@types/websocket/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/module.d.ts": [
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketPublisher.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/app.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/module.d.ts"
       ],
       "./node_modules/tarn/lib/PendingOperation.d.ts": [
         "./node_modules/tarn/lib/utils.d.ts"
@@ -8302,16 +8302,16 @@
         "./src/Infra/EmailSender/EmailSender.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/EmailSender/EmailSender.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.factory.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts",
         "./src/Infra/RabbitMQ/RabbitConnector.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.factory.ts": [
@@ -8320,7 +8320,7 @@
       ],
       "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.ts": [
         "./node_modules/aws-sdk/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.factory.ts": [
@@ -8329,7 +8329,7 @@
         "./src/Infra/EmailSender/EmailSender.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/EmailSender/EmailSender.ts"
       ],
       "./src/Domain/SendRegisterMailUseCase.ts": [
@@ -8433,11 +8433,11 @@
       ],
       "./src/Infra/RabbitMQ/ConsumerLogger.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
         "./src/Data/Source/Mongo/MongoLog.ts"
       ],
       "./src/Infra/RabbitMQ/RabbitConnector.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts",
         "./src/Infra/RabbitMQ/queues/EmailValidationRequestQueue.ts",
         "./src/Infra/RabbitMQ/queues/FeedEmailSenderQueue.ts",
@@ -8450,21 +8450,21 @@
       ],
       "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts"
+        "./node_modules/promo-infra-modules/dist/app.d.ts"
       ],
       "./src/Infra/RabbitMQ/queues/EmailValidationRequestQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts"
       ],
       "./src/Infra/RabbitMQ/queues/FeedEmailSenderQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts"
       ],
       "./src/Infra/RabbitMQ/queues/FeedShouldSendMailQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts"
       ],
       "./src/Infra/TemplateCompiler.ts": [
@@ -8528,27 +8528,27 @@
         "./src/Utils/TemplateCompiler.ts"
       ],
       "./src/Presentation/Consumers/BounceEmailConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.factory.ts",
         "./src/Infra/RabbitMQ/ConsumerLogger.ts",
         "./src/Infra/RabbitMQ/RabbitConnector.ts"
       ],
       "./src/Presentation/Consumers/EmailValidationRequestConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.factory.ts",
         "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts",
         "./src/Infra/RabbitMQ/ConsumerLogger.ts",
         "./src/Infra/RabbitMQ/RabbitConnector.ts"
       ],
       "./src/Presentation/Consumers/FeedEmailNotifyConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.factory.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts",
         "./src/Infra/RabbitMQ/ConsumerLogger.ts",
         "./src/Infra/RabbitMQ/RabbitConnector.ts"
       ],
       "./src/Presentation/Consumers/FeedShouldSendMailConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.factory.ts",
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts",
         "./src/Infra/RabbitMQ/ConsumerLogger.ts",
@@ -8567,7 +8567,7 @@
       ],
       "./src/Presentation/SesBouncedPresenter.ts": [
         "./node_modules/axios/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/EmailSender/EmailSender.ts",
         "./src/Infra/RabbitMQ/RabbitConnector.ts",
         "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts",
@@ -12775,66 +12775,6 @@
         "./node_modules/jest-diff/build/cleanupSemantic.d.ts",
         "./node_modules/jest-diff/build/types.d.ts"
       ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Producer.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts": [
-        "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Producer.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/types.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts": [
-        "./node_modules/@types/websocket/index.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketPublisher.d.ts": [
-        "./node_modules/@types/websocket/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts": [
-        "./node_modules/@types/websocket/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/module.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketPublisher.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts"
-      ],
-      "./node_modules/kiwiki-infra-modules/dist/app.d.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/Websocket/module.d.ts"
-      ],
       "./node_modules/knex/types/index.d.ts": [
         "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/index.d.ts",
@@ -12845,6 +12785,66 @@
       ],
       "./node_modules/pretty-format/build/index.d.ts": [
         "./node_modules/pretty-format/build/types.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Producer.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts": [
+        "./node_modules/@types/amqplib/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Producer.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts",
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts": [
+        "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/types.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts": [
+        "./node_modules/@types/websocket/index.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketPublisher.d.ts": [
+        "./node_modules/@types/websocket/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts": [
+        "./node_modules/@types/websocket/index.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/Websocket/module.d.ts": [
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketPublisher.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts"
+      ],
+      "./node_modules/promo-infra-modules/dist/app.d.ts": [
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts",
+        "./node_modules/promo-infra-modules/dist/Websocket/module.d.ts"
       ],
       "./node_modules/tarn/lib/PendingOperation.d.ts": [
         "./node_modules/tarn/lib/utils.d.ts"
@@ -12903,14 +12903,14 @@
         "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/EmailSender/EmailSender.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.factory.ts": [
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.factory.ts": [
@@ -12918,7 +12918,7 @@
         "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SESNotificationAccountable.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.factory.ts": [
@@ -12926,7 +12926,7 @@
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts"
       ],
       "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/EmailSender/EmailSender.ts"
       ],
       "./src/Domain/SendRegisterMailUseCase.ts": [
@@ -13004,10 +13004,10 @@
       ],
       "./src/Infra/RabbitMQ/ConsumerLogger.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts"
+        "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts"
       ],
       "./src/Infra/RabbitMQ/RabbitConnector.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts",
         "./src/Infra/RabbitMQ/queues/EmailValidationRequestQueue.ts",
         "./src/Infra/RabbitMQ/queues/FeedEmailSenderQueue.ts",
@@ -13015,21 +13015,21 @@
       ],
       "./src/Infra/RabbitMQ/queues/BounceEmailQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts"
+        "./node_modules/promo-infra-modules/dist/app.d.ts"
       ],
       "./src/Infra/RabbitMQ/queues/EmailValidationRequestQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts"
       ],
       "./src/Infra/RabbitMQ/queues/FeedEmailSenderQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts"
       ],
       "./src/Infra/RabbitMQ/queues/FeedShouldSendMailQueue.ts": [
         "./node_modules/@types/amqplib/index.d.ts",
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts"
       ],
       "./src/Infra/Utils/HttpResponse/BadRequest.ts": [
@@ -13072,18 +13072,18 @@
         "./src/Presentation/SecondPresenter.ts"
       ],
       "./src/Presentation/Consumers/BounceEmailConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts"
+        "./node_modules/promo-infra-modules/dist/app.d.ts"
       ],
       "./src/Presentation/Consumers/EmailValidationRequestConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/EmailValidationRequest.ts"
       ],
       "./src/Presentation/Consumers/FeedEmailNotifyConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/SendFeedUpdateEmail.ts"
       ],
       "./src/Presentation/Consumers/FeedShouldSendMailConsumer.ts": [
-        "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
+        "./node_modules/promo-infra-modules/dist/app.d.ts",
         "./src/Domain/RabbitMQ/Accountables/FeedItemRequireEmail.ts"
       ],
       "./src/Presentation/FirstPresenter.ts": [
@@ -13763,24 +13763,24 @@
       "./node_modules/jest-diff/build/index.d.ts",
       "./node_modules/jest-diff/build/printDiffs.d.ts",
       "./node_modules/jest-diff/build/types.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Connection.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Consumer.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Exchange.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Producer.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/Queue.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/RabbitMQ/module.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/MessageTypes/types.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketConnection.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketPublisher.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/Websocket/module.d.ts",
-      "./node_modules/kiwiki-infra-modules/dist/app.d.ts",
       "./node_modules/knex/types/index.d.ts",
       "./node_modules/knex/types/result.d.ts",
       "./node_modules/pretty-format/build/index.d.ts",
       "./node_modules/pretty-format/build/types.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Connection.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Consumer.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Exchange.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Producer.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/Queue.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/RabbitConnector.d.ts",
+      "./node_modules/promo-infra-modules/dist/RabbitMQ/module.d.ts",
+      "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/SocketMessage.d.ts",
+      "./node_modules/promo-infra-modules/dist/Websocket/MessageTypes/types.d.ts",
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketConnection.d.ts",
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketPublisher.d.ts",
+      "./node_modules/promo-infra-modules/dist/Websocket/WebSocketSubscriber.d.ts",
+      "./node_modules/promo-infra-modules/dist/Websocket/module.d.ts",
+      "./node_modules/promo-infra-modules/dist/app.d.ts",
       "./node_modules/tarn/lib/PendingOperation.d.ts",
       "./node_modules/tarn/lib/Pool.d.ts",
       "./node_modules/tarn/lib/PromiseInspection.d.ts",

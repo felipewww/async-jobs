@@ -1,4 +1,4 @@
-import { RabbitMQ } from "kiwiki-infra-modules";
+import { RabbitMQ } from "promo-infra-modules";
 import {EmailSender, EmailSenderFactory, IEmailTemplateEstruct} from "@Infra/EmailSender/EmailSender";
 
 export interface FeedUpdateEmailData extends IEmailTemplateEstruct {
@@ -46,7 +46,7 @@ export namespace SendFeedUpdateEmail {
             const nameCapital = msg.userName.charAt(0).toUpperCase() + msg.userName.slice(1);
 
             let protocol = 'https://';
-            let domain = `${msg.subdomain}.kiwiki.io`;
+            let domain = `${msg.subdomain}.promosimples.io`;
 
             if (msg.subdomain === 'dev') {
                 protocol = 'http://'
@@ -73,7 +73,7 @@ export namespace SendFeedUpdateEmail {
 
             return {
                 data,
-                subject: `Kiwiki - Fique ligado no artigo ${msg.postTitle}`
+                subject: `Promosimples - Fique ligado no artigo ${msg.postTitle}`
             }
         }
 

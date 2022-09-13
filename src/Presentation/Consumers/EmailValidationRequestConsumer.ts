@@ -1,4 +1,4 @@
-import { RabbitMQ } from "kiwiki-infra-modules";
+import { RabbitMQ } from "promo-infra-modules";
 import { RabbitConnectorInstance } from "@Infra/RabbitMQ/RabbitConnector";
 import { ConsumerLogger } from "@Infra/RabbitMQ/ConsumerLogger";
 import {EmailValidationRequest} from "@Domain/RabbitMQ/Accountables/EmailValidationRequest";

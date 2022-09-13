@@ -1,4 +1,4 @@
-import { RabbitMQ } from "kiwiki-infra-modules";
+import { RabbitMQ } from "promo-infra-modules";
 import {SendFeedUpdateEmail} from "@Domain/RabbitMQ/Accountables/SendFeedUpdateEmail";
 
 /**

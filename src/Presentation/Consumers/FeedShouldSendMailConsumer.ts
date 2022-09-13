@@ -1,5 +1,5 @@
 import { RabbitConnectorInstance } from "@Infra/RabbitMQ/RabbitConnector";
-import { RabbitMQ } from "kiwiki-infra-modules";
+import { RabbitMQ } from "promo-infra-modules";
 import { ConsumerLogger } from "@Infra/RabbitMQ/ConsumerLogger";
 import { FeedItemRequireEmail } from "@Domain/RabbitMQ/Accountables/FeedItemRequireEmail";
 import {FeedItemRequireEmailFactory} from "@Domain/RabbitMQ/Accountables/FeedItemRequireEmail.factory";

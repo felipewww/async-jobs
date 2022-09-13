@@ -1,5 +1,5 @@
 import {EmailSender, IEmailTemplateEstruct} from "@Infra/EmailSender/EmailSender";
-import { RabbitMQ } from "kiwiki-infra-modules";
+import { RabbitMQ } from "promo-infra-modules";
 
 export interface EmailValidationData extends IEmailTemplateEstruct {
     link: string

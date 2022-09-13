@@ -43,7 +43,7 @@ export class EmailSender {
                     Data: 'Test email'
                 }
             },
-            Source: 'no-reply@kiwiki.io', /* required */
+            Source: 'no-reply@promosimples.com.br', /* required */
             // ReplyToAddresses: [
             //     'EMAIL_ADDRESS',
             //     /* more items */

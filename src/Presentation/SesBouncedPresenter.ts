@@ -1,6 +1,6 @@
 import axios from "axios";
 import {debug} from "../app";
-import {RabbitMQ} from "kiwiki-infra-modules";
+import {RabbitMQ} from "promo-infra-modules";
 import {RabbitConnectorInstance} from "@Infra/RabbitMQ/RabbitConnector";
 import {IEmailHeader} from "@Infra/EmailSender/EmailSender";
 import {IBounceEmailMessageParsed} from "@Infra/RabbitMQ/queues/BounceEmailQueue";

@@ -1,6 +1,6 @@
 import { Message } from "amqplib";
 import { ErrorTypes, MongoLog } from "@Data/Source/Mongo/MongoLog";
-import {IConsumerLogger} from "kiwiki-infra-modules/dist/RabbitMQ/Consumer";
+import {IConsumerLogger} from "promo-infra-modules/dist/RabbitMQ/Consumer";
 
 export class ConsumerLogger implements IConsumerLogger {
     log(error: Error, msg: Message) {

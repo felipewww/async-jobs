@@ -11,7 +11,7 @@ setTimeout(() => {
             // email: 'felipewww@outlook.com.br',
             // email: 'bounce@simulator.amazonses.com'
             // email: 'felipee.php@gmail.com'
-            email: 'bounceteste@kiwiki.io'
+            email: 'bounceteste@promosimples.io'
             // email: 'complaint@simulator.amazonses.com'
             // email: 'supressionlist@simulator.amazonses.com'
         },

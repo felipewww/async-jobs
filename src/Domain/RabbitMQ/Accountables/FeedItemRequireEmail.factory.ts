@@ -1,7 +1,7 @@
 // import { FeedItemRequireEmail } from "@Domain/MessageAccountables/FeedItemRequireEmail";
 // import { PostModel } from "@Data/Source/MySQL/Notification/PostModel";
 import { RabbitConnectorInstance } from "@Infra/RabbitMQ/RabbitConnector";
-import { RabbitMQ } from "kiwiki-infra-modules";
+import { RabbitMQ } from "promo-infra-modules";
 import {FeedItemRequireEmail} from "@Domain/RabbitMQ/Accountables/FeedItemRequireEmail";
 
 export function FeedItemRequireEmailFactory(message: FeedItemRequireEmail.IMessageParsed) {

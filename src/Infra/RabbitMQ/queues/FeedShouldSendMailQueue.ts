@@ -1,6 +1,6 @@
 import { FeedItemRequireEmail } from "@Domain/RabbitMQ/Accountables/FeedItemRequireEmail";
 import { Message } from "amqplib";
-import {RabbitMQ} from "kiwiki-infra-modules";
+import {RabbitMQ} from "promo-infra-modules";
 
 export class FeedShouldSendMailQueue extends RabbitMQ.Queue<FeedItemRequireEmail.IMessageParsed> {
 

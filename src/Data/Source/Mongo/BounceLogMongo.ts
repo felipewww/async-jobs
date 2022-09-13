@@ -5,7 +5,7 @@ export class BounceLogMongo extends Mongo {
         super(
             process.env.MONGO_USER,
             process.env.MONGO_PASS,
-            'kiwiki',
+            'promosimples',
             process.env.MONGO_HOST,
             process.env.MONGO_PORT,
         );

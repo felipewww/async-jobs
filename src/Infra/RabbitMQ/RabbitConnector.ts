@@ -1,4 +1,4 @@
-import {RabbitMQ} from "kiwiki-infra-modules";
+import {RabbitMQ} from "promo-infra-modules";
 import {FeedShouldSendMailQueue} from "@Infra/RabbitMQ/queues/FeedShouldSendMailQueue";
 import {FeedEmailSenderQueue} from "@Infra/RabbitMQ/queues/FeedEmailSenderQueue";
 import {EmailValidationRequestQueue} from "@Infra/RabbitMQ/queues/EmailValidationRequestQueue";

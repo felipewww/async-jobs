@@ -1,6 +1,6 @@
 import { Message } from "amqplib";
 import { EmailValidationRequest } from "@Domain/RabbitMQ/Accountables/EmailValidationRequest";
-import {RabbitMQ} from "kiwiki-infra-modules";
+import {RabbitMQ} from "promo-infra-modules";
 
 export class EmailValidationRequestQueue extends RabbitMQ.Queue<EmailValidationRequest.IMessageParsed> {
 

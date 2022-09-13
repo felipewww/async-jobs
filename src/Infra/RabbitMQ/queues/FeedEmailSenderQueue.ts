@@ -1,6 +1,6 @@
 import { SendFeedUpdateEmail } from "@Domain/RabbitMQ/Accountables/SendFeedUpdateEmail";
 import { Message } from "amqplib";
-import {RabbitMQ} from "kiwiki-infra-modules";
+import {RabbitMQ} from "promo-infra-modules";
 
 export class FeedEmailSenderQueue extends RabbitMQ.Queue<SendFeedUpdateEmail.IMessageParsed> {
 

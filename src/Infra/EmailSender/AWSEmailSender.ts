@@ -20,10 +20,10 @@ export class AWSEmailSender {
         *  doc for RAW MSG
         * https://docs.aws.amazon.com/ses/latest/dg/event-publishing-send-email.html#event-publishing-using-ses-headers
         * */
-        const from = "Kiwiki<no-reply@kiwiki.io>";
+        const from = "Promosimples<no-reply@promosimples.com.br>";
 
         const rawObj: SendRawEmailRequest = {
-            Source: "Kiwiki<no-reply@kiwiki.io>",
+            Source: "Promosimples<no-reply@promosimples.com.br>",
             // Destinations: [destination],
             RawMessage: {
                 Data: Buffer.from(`X-SES-CONFIGURATION-SET: SES-config

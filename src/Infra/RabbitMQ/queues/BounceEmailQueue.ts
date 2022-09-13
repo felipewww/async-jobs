@@ -1,4 +1,4 @@
-import {RabbitMQ} from "kiwiki-infra-modules";
+import {RabbitMQ} from "promo-infra-modules";
 import {Message} from "amqplib";
 
 export interface IBounceEmailMessageParsed {
